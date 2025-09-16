@@ -23,7 +23,6 @@ yarn-debug.log*
 yarn-error.log*
 __pycache__/
 *.pyc
-node_modules/
 .env
-.DS_Store
-package-lock.json
+
+
