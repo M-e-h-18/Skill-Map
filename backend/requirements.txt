@@ -1,0 +1,10 @@
+Flask==2.3.3
+Flask-Cors==3.0.10
+pymongo==4.4.0
+python-dotenv==1.0.0
+flask-jwt-extended==4.5.2
+requests==2.31.0
+pymupdf==1.23.1
+google-generativeai
+gunicorn==20.1.0
+dnspython==2.4.2
